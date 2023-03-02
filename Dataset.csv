@@ -1,4 +1,4 @@
-patient, action, org:resource, DateTime
+patient, action, resource, datetime
 patient 0, First consult, Dr. Anna, 2017-01-02 11:40:11
 patient 0, Blood test, Lab, 2017-01-02 12:47:33
 patient 0, Physical test, Nurse Jesse, 2017-01-02 12:53:50
